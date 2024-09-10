@@ -1,6 +1,8 @@
 ## Hi there✨✨
 
+[![](https://visitcount.itsvg.in/api?id=SamiraAzadali&icon=6&color=6)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Hi 👋, I'm Samira Azadalizada</h1>
 🌱 I’m currently learning Front-End Development
 
